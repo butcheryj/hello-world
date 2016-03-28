@@ -1,2 +1,4 @@
 # hello-world
-just a new test
+Hello world!
+
+This is a pure new test.
